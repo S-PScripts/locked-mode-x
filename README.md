@@ -9,9 +9,9 @@ This is a Google locked mode bypass!
 5. Click the overview button on your keyboard. You'll be able to see all the windows, and hence "exit" locked mode. You can still return to the form and complete it.
 
 ## Notes:
--> You cannot screenshot until you complete the form properly!
--> This is very buggy!
--> You might notice that locked mode is an app called Assessment Assistant?
+-> You cannot screenshot until you complete the form properly! <br>
+-> This is very buggy! <br>
+-> You might notice that locked mode is an app called Assessment Assistant? <br>
 
 ## Credits:
 S-PScripts (me)
