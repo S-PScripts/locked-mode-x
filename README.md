@@ -12,7 +12,7 @@ Locked Mode X is a simple bypass for Google's locked mode!
 -> You cannot screenshot until you complete the form properly ('submit' or 'close quiz')! (Note: I found this independently from LoMoH) <br>
 -> Alt-tab closes the quiz, use the window view button! <br>
 -> This is very buggy! <br>
--> You might notice that locked mode is an app called Assessment Assistant? <br>
+-> You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie) <br>
 -> This exploit is not affiliated with LoMoH (https://chrose.netlify.app/detail/lomoh/)!
 
 ## Credits:
