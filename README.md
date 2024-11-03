@@ -1,5 +1,5 @@
 # locked-mode-x
-This is a Google locked mode bypass!
+Locked Mode X is a simple bypass for Google's locked mode!
 
 ## Instructions:
 1. Open two windows of the locked form.
@@ -13,6 +13,7 @@ This is a Google locked mode bypass!
 -> Alt-tab closes the quiz, use the window view button!<br>
 -> This is very buggy! <br>
 -> You might notice that locked mode is an app called Assessment Assistant? <br>
+-> This exploit is not affiliated with LoMoH (https://chrose.netlify.app/detail/lomoh/)!
 
 ## Credits:
 S-PScripts (me)
