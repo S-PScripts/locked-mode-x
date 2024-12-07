@@ -1,7 +1,13 @@
 # locked-mode-x
 Locked Mode X is a simple bypass for Google's locked mode!
 
+## Discovery:
+- In Economics, I had a quiz in locked mode. After I did it, I decided to make my own locked mode quiz and try some things to escape it.
+- After a while, I found the exploit below...
+
 ## Instructions:
+- ONLY USE THIS FOR EDUCATIONAL PURPOSES (I don't use this exploit myself)
+  
 1. Open two windows of the locked form.
 2. Click both of their continue buttons at the EXACT same time. Too late and it'll work as normal. You should practise first by creating your own locked forms and previewing them. <br>
    This exploit is probably only possible on touch screen due to how quick you need to be. <br>
@@ -14,7 +20,11 @@ Locked Mode X is a simple bypass for Google's locked mode!
 -> Alt-tab closes the quiz, use the window view button! <br>
 -> This is very buggy! <br>
 -> You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie) <br>
--> This exploit is not affiliated with LoMoH (https://chrose.netlify.app/detail/lomoh/)!
+
+## Relations:
+### Here are some other Locked Mode exploits:
+-> LoMoH by AshtonDavies (https://chrose.netlify.app/detail/lomoh/) <br>
+-> V4PL's LM Bypass (https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Locked%20Mode%20Bypass%20-%20V4PL)
 
 ## Credits:
 S-PScripts (me)
