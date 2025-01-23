@@ -1,5 +1,5 @@
 # locked-mode-x
-Locked Mode X is a simple bypass for Google's locked mode!
+Locked Mode X is a simple bypass for Google's locked mode! It works as of the latest chromeOS version, v132.
 
 ## Discovery:
 - In Economics, I had a quiz in locked mode. After I did it, I decided to make my own locked mode quiz and try some things to escape it.
@@ -16,7 +16,7 @@ Locked Mode X is a simple bypass for Google's locked mode!
 5. It should now show the enter locked mode screen on the form when you're already in locked mode. Click continue.
 6. Click the overview button on your keyboard. You'll be able to see all the windows, and hence "exit" locked mode. You can still return to the form and complete it.
 
-- GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. IT WILL BE HARDER TO PRACTISE, BUT THE EXPLOIT IS NOT PATCHED. <br> 
+- GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. IT WILL BE HARDER TO PRACTISE, BUT THIS EXPLOIT IS NOT PATCHED. <br> 
 
 ## Notes:
 -> You cannot screenshot until you complete the form properly ('submit' or 'close quiz')! (Note: I found this independently from LoMoH) <br>
