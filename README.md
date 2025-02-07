@@ -6,7 +6,7 @@ Locked Mode X is a simple bypass for Google's locked mode! It works as of the la
 - After a while, I found the exploit below...
 
 ## Instructions:
-- ONLY USE THIS FOR EDUCATIONAL PURPOSES (I don't use this exploit myself)
+- ONLY USE THIS FOR EDUCATIONAL PURPOSES
   
 1. Open two windows of the locked form.
 2. Click both of their continue buttons at the EXACT same time. Too late and it'll work as normal. <br>
