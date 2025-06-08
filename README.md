@@ -1,5 +1,5 @@
 # locked-mode-x
-Locked Mode X is a simple bypass for Google's locked mode! It works as of March 18th 2025 in chromeOS v133. <br>
+Locked Mode X is a simple bypass for Google's locked mode! It works as of June 8th 2025 in chromeOS v136. <br>
 **THEY WILL NOT FIX THIS EXPLOIT. I TRIED GETTING THEM TO DO SO BUT THEY CLOSED MY ISSUE.**
 
 ## Discovery:
@@ -31,7 +31,7 @@ Locked Mode X is a simple bypass for Google's locked mode! It works as of March 
 ## Relations:
 ### Here are some other Locked Mode exploits:
 -> LoMoH by AshtonDavies (https://chrose.netlify.app/detail/lomoh/) <br>
--> V4PL's LM Bypass (https://github.com/S-PScripts/chromebook-utilities/ - look at the commits before I deleted the Exploits section)
+-> V4PL's LM Bypass (https://github.com/S-PScripts/chromebook-utilities/)
 
 ## Credits:
 S-PScripts (me)
