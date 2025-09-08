@@ -16,19 +16,13 @@ Locked Mode X is a simple bypass for Google's locked mode! It works as of Septem
 6. Click the overview button on your keyboard. You'll be able to see all the windows, and hence "exit" locked mode. However, you can still return to the form and complete it.
 
 ## Notes:
--> You cannot screenshot until you complete the form properly ('submit' or 'close quiz')! <br>
-
--> Alt-tab closes the quiz, use the window view button! <br>
-
--> This is very buggy! <br>
-
--> You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie) <br>
-
--> GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. <br> 
-
--> You can still perform this exploit by Publishing the form and copying the link. <br>
-
--> I don't care about what you do with this exploit since apparently this bug was too minor for Google to bother to fix it when I asked them. <br>
+- You cannot screenshot until you complete the form properly ('submit' or 'close quiz')! <br>
+- Alt-tab closes the quiz, use the window view button! <br>
+- This is very buggy! <br>
+- You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie) <br>
+- GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. <br> 
+- You can still perform this exploit by Publishing the form and copying the link. <br>
+- I don't care about what you do with this exploit since apparently this bug was too minor for Google to bother to fix it when I asked them. <br>
 
 ## Relations:
 ### Here are some other Locked Mode exploits:
