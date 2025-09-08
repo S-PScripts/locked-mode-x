@@ -24,7 +24,9 @@ Locked Mode X is a simple bypass for Google's locked mode! It works as of Septem
 
 -> You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie) <br>
 
--> GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. IT WILL BE HARDER TO PRACTISE THE TIMINGS, BUT THIS EXPLOIT IS NOT PATCHED. <br> 
+-> GOOGLE UPDATED GOOGLE FORMS AND NOW LOCKED MODE DOESN'T WORK WITH NEW PREVIEWED FORMS. IT WILL STILL WORK ON OLD FORMS. <br> 
+
+-> You can still perform this exploit by Publishing the form and copying the link. <br>
 
 -> I don't care about what you do with this exploit since apparently this bug was too minor for Google to bother to fix it when I asked them. <br>
 
