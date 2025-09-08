@@ -1,6 +1,6 @@
 # locked-mode-x
-Locked Mode X is a simple bypass for Google's locked mode! It works as of June 8th 2025 in chromeOS v136. <br>
-**THEY WILL NOT FIX THIS EXPLOIT. I TRIED GETTING THEM TO DO SO BUT THEY CLOSED MY ISSUE.**
+Locked Mode X is a simple bypass for Google's locked mode! It works as of September 8th 2025 in chromeOS v139. <br>
+**THEY WILL NOT FIX THIS EXPLOIT. I TRIED GETTING GOOGLE TO DO SO BUT THEY CLOSED MY ISSUE.**
 
 ## Discovery:
 - In Economics, I had a quiz in locked mode. After I did it, I decided to make my own locked mode quiz and try some things to escape it.
