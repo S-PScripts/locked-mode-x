@@ -17,3 +17,5 @@ This is a bug with Google Forms Locked Mode that lets you exit Locked Mode witho
 
 You can practice this glitch by creating your own locked mode form, publishing it, and copying its link.
 It used to be easier when previewing a locked mode form behaved like the real locked mode.
+
+## Note: There are better Locked Mode Bypasses in https://github.com/S-PScripts/chromebook-utilities/
