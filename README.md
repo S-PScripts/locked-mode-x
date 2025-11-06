@@ -1,5 +1,5 @@
 # locked-mode-bug
-This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 139 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
+This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 141 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
 
 # Instructions:
 - Open the form in question in two windows (or use the split view feature). Ensure you can view both forms at the same time.
