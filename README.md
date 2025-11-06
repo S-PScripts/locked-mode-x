@@ -2,7 +2,7 @@
 This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 139 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
 
 # Instructions:
-- Open two windows of the locked form in question. Ensure you can view both forms without needing to switch tabs.
+- Open the form in question in two windows (or use the split view feature). Ensure you can view both forms at the same time.
 - Click the Continue button on both pages at the *exact* same time. If you are too late, it will lock you as normal.
 >This exploit is likely possible on touchscreen Chromebooks only due to how fast you need to be to click both buttons.
 - You should be in locked mode now, but it will only show a blank window with a forms icon at the top left. Click it.
