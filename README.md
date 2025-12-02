@@ -11,6 +11,7 @@ This is a bug with Google Forms Locked Mode that lets you exit Locked Mode witho
 
 # Notes:
 - I reported this to Google, but they declined to make a fix. If you try this, you do so at your own risk; I accept no responsibility for any consequences.
+- This is really buggy!
 - You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie).
 - Alt-tab closes the quiz - use the window view button!
 - You cannot screenshot until you complete/exit the form properly ('submit' or 'close quiz')!
