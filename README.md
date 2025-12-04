@@ -1,6 +1,5 @@
 # locked-mode-bug
-## Note:
-I cannot get this to work properly anymore; the form just closes itself shortly after it is performed. I do not know which update added this.
+## Note: I cannot get this to work properly anymore; the form just closes itself shortly after it is performed. I do not know which update added this.
 
 This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 142 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
 
