@@ -1,7 +1,6 @@
 # locked-mode-bug
-## Note: I cannot get this to work properly anymore; the form just closes itself shortly after it is performed. I do not know which update added this.
 
-This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 142 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
+This is a bug with Google Forms Locked Mode that lets you exit Locked Mode without actually exiting the form itself. It works on ChromeOS version 146 and has been functional since at least version 131. There’s a good chance it works on all ChromeOS versions that support Locked Mode.
 
 # Instructions:
 - Open the form in question in two windows (or use the split view feature). Ensure you can view both forms at the same time.
@@ -12,8 +11,8 @@ This is a bug with Google Forms Locked Mode that lets you exit Locked Mode witho
 - Click the overview button on your keyboard. You'll be able to see all the windows, and hence "exit" locked mode. However, you can still return to the form and complete it.
 
 # Notes:
+- **This is really buggy! Sometimes, the form can just close by itself!**
 - I reported this to Google, but they declined to make a fix. If you try this, you do so at your own risk; I accept no responsibility for any consequences.
-- This is really buggy!
 - You might notice that locked mode is an app called Assessment Assistant (https://chromewebstore.google.com/detail/assessment-assistant-dev/ibnfdimnablpmgpmgegnbdadookdffie).
 - Alt-tab closes the quiz - use the window view button!
 - You cannot screenshot until you complete/exit the form properly ('submit' or 'close quiz')!
